@@ -27,4 +27,4 @@ I'm a junior Web Developer who is strengthening my skills as a Full Stack Develo
 
 **Santiago Alfaro Martí**
   - [GitHub](https://github.com/SantiagoAlfaroMarti)
-  - [Linkedin](https://www.linkedin.com/in/santi-juan-alfaro-marti/)
+  - [Linkedin](https://www.linkedin.com/in/santiagoalfaromarti/)

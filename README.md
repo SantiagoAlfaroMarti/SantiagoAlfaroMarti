@@ -1,6 +1,6 @@
 # Hey, I'm Santiago 👋🏽
 
-I'm a junior Web Developer who is strengthening my skills as a Full Stack Developer. Technology is my passion and I continue to expand my knowledge in programming and IT. I'm excited to face new challenges and take every opportunity to keep growing in this field. If you are looking for collaborations, projects, or events, don't hesitate to contact me. I'm always willing to learn and bring my best to every opportunity. Thanks for dropping by! :bellhop_bell:
+I'm a Junior Web Developer who is strengthening my skills as a Full Stack Developer. Technology is my passion and I continue to expand my knowledge in programming and IT. I'm excited to face new challenges and take every opportunity to keep growing in this field. If you are looking for collaborations, projects, or events, don't hesitate to contact me. I'm always willing to learn and bring my best to every opportunity. Thanks for dropping by! :bellhop_bell:
 
 
 ## Toolbox :toolbox:
